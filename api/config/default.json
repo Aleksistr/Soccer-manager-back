@@ -1,0 +1,10 @@
+{
+  "serverPort": 3000,
+  "secretKey": "superS3cret",
+  "database": {
+    "dbname": "soccerManagerDB",
+    "host": "localhost",
+    "port": 27017
+  },
+  "maxApiUse": 500
+}
